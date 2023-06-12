@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 938bfefd3e8dfdf4fb6e756eb1893b8b, type: 3}
+  m_Name: LevelBlocks
+  m_EditorClassIdentifier: 
+  objData:
+  - <Name>k__BackingField: Start
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: 0b672ef8da35d824e9131bd7bee984af, type: 3}
+  - <Name>k__BackingField: Line
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: e02ba1b50673cac4491d7a22416c1a9e, type: 3}
+  - <Name>k__BackingField: Drop
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: 31b7568f855f6034a93d28d21e1f86ad, type: 3}
+  - <Name>k__BackingField: Ramp
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: 48786a9381f034e45b3ca34d31f46438, type: 3}
+  - <Name>k__BackingField: Tunnel
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: a7e07631b74c00444895314cf0cf51b2, type: 3}
+  - <Name>k__BackingField: Block
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: 24c844d856a0d744c86dbe6137d1d8b9, type: 3}
+  - <Name>k__BackingField: Finish
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: c818c10f64439f64885f1d14efb6b483, type: 3}
+  - <Name>k__BackingField: Finish
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: c818c10f64439f64885f1d14efb6b483, type: 3}
+  - <Name>k__BackingField: Finish
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: c818c10f64439f64885f1d14efb6b483, type: 3}
+  - <Name>k__BackingField: Finish
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: c818c10f64439f64885f1d14efb6b483, type: 3}
+  - <Name>k__BackingField: Finish
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 1189229402542007708, guid: c818c10f64439f64885f1d14efb6b483, type: 3}
